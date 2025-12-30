@@ -12,7 +12,7 @@
 ├── HomeInt-main.7z       # 智能家居系统压缩包
 ├── LoRa_2Nodes_Demo-main.7z  # LoRa环境监测系统压缩包
 ├── stm32-RTOS-master.7z  # FreeRTOS项目压缩包
-└── 物联网（IoT）平台从0到1构建指南 - 完善版.md  # IoT平台构建指南
+└── 物联网（IoT）平台从0到1构建指南 -笔记.md  # IoT平台构建指南
 ```
 
 ## 主要内容
